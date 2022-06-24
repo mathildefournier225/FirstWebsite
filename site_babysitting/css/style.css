@@ -1,0 +1,34 @@
+
+#color{
+    background-color: indianred;
+    color: white;
+}
+
+#color2{
+    background-color:#b4b7dd;
+    color: white;
+    
+}
+
+#flexCheckDefault,#answer1,#answer2,#answer3,#answer4,#answer5,#answer6,#answer7,#answer8,#answer9,#answer10{
+    background-color:indianred;
+    border-color : white;
+}
+
+.badge{
+    background-color:darkgray;
+    color:white;
+}
+.far{
+    color:darkgray;
+}
+
+#QCM{
+     border:1px solid saddlebrown;
+}
+
+
+h2{
+    color: brown;
+}
+
